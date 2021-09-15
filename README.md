@@ -57,7 +57,14 @@ for k = 1:length(symbols)
     end
     sgtitle(symbols{k});
 end
-```matlab
+```
+
+<p align="center">
+  <img src="Figures/fig1a.png" width="300">
+  <img src="Figures/fig1b.png" width="300">
+  <img src="Figures/fig1c.png" width="300">
+</p>
+
 ## Download Economic Indicators
 ```matlab
 treasury_yield_3month = getEconomicIndicators("TREASURY_YIELD", keyAV, struct("interval", "daily", "maturity", "3month"));
@@ -74,10 +81,9 @@ xlabel('date'), ylabel('percent');
 title('Treasury yields');
 legend({'3 month', '5 year', '10 year'});
 ```
+
 <p align="center">
-  <img src="Figures/fig1a.png" width="300">
-  <img src="Figures/fig1b.png" width="300">
-  <img src="Figures/fig1c.png" width="300">
+  <img src="Figures/fig2.png" width="300">
 </p>
 
 ## Donwload SnP500
@@ -125,3 +131,6 @@ for l = 1:2
     end
 end
 ```
+<p align="center">
+  <img src="Figures/fig3.png" width="300">
+</p>
