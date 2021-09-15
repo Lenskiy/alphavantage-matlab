@@ -83,7 +83,7 @@ legend({'3 month', '5 year', '10 year'});
 ```
 
 <p align="center">
-  <img src="Figures/fig2.png" width="300">
+  <img src="Figures/fig2.png" width="600">
 </p>
 
 ## Donwload SnP500
@@ -132,5 +132,5 @@ for l = 1:2
 end
 ```
 <p align="center">
-  <img src="Figures/fig3.png" width="300">
+  <img src="Figures/fig3.png" width="600">
 </p>
