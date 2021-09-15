@@ -75,9 +75,9 @@ title('Treasury yields');
 legend({'3 month', '5 year', '10 year'});
 ```
 <p align="center">
-  <img src="Figures/fig1a.png" width="250">
-  <img src="Figures/fig1b.png" width="250">
-  <img src="Figures/fig1c.png" width="250">
+  <img src="Figures/fig1a.png" width="300">
+  <img src="Figures/fig1b.png" width="300">
+  <img src="Figures/fig1c.png" width="300">
 </p>
 
 ## Donwload SnP500
