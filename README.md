@@ -60,9 +60,9 @@ end
 ```
 
 <p align="center">
-  <img src="Figures/fig1a.png" width="280">
-  <img src="Figures/fig1b.png" width="280">
-  <img src="Figures/fig1c.png" width="280">
+  <img src="Figures/fig1a.png" width="250">
+  <img src="Figures/fig1b.png" width="250">
+  <img src="Figures/fig1c.png" width="250">
 </p>
 
 ## Download Economic Indicators
