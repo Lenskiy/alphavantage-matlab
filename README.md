@@ -74,6 +74,9 @@ xlabel('date'), ylabel('percent');
 title('Treasury yields');
 legend({'3 month', '5 year', '10 year'});
 ```
+![fig1a](Figures/fig1a.png)
+![fig1a](Figures/fig1b.png)
+![fig1a](Figures/fig1c.png)
 ## Donwload SnP500
 ```matlab
 snp500list = readtable("snp500list.csv");
@@ -119,4 +122,3 @@ for l = 1:2
     end
 end
 ```
-# alphavantage-matlab
